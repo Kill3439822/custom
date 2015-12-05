@@ -1,5 +1,5 @@
 <?php
-
+//connection
 class DBConnect {
 
     static private $_link;
